@@ -7,24 +7,23 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
-  ['56964787183', '𝘾𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧 | 𝙂𝙖𝙩𝙖𝘽𝙤𝙩 💖🐈', true], 
- // ['5492266466080'] 
-  ['5492266613038'], ['573136855110'], ['50689823726'], ['50495086382'], ['51960086535'],
-  ['584125778026'], ['584166662765'], ['584163647116'], ['15512090312'], ['593968585383']]
+  ['916202316574', ' Deepak 💖🐈', true],
+  ['916202316574', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', false], 
+  ['916202316574', '𝘾𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧 | 𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧 ♡ 💖🐈', false], 
+ // ['11111111111'] 
+  ['['916202316574']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['6202316574'], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
 //Agrega el Idioma que quieres que tenga GataBot-MD
 //Add the language you want GataBot-MD to have
-//  es = Español         id = Bahasa Indonesia
-//  en = English         pt = Português 
-//  ar = عرب  
+// 
+//  en = English         
+//
 
 global.lenguajeGB = es  //Idioma de GataBot, Ejemplo: es | en | pt...
 
@@ -97,8 +96,8 @@ global.imagen1 = fs.readFileSync('./media/menus/Menu3.jpg')
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧 ♡ '
+global.author = 'Dipak'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -108,38 +107,38 @@ global.vsJB = '2.0'
 global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/@gatadios'
+global.yt = 'https://youtube.com/@deepak-69'
 global.youtube = yt
 
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
+global.yt2 = 'https://www.youtube.com/@deepak-69'
 global.youtube2 = yt2
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig = 'https://www.instagram.com/deepak_sharma4007'
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md = 'https://github.com/MADDOX-69'
 global.gatabot = md
 
 global.nna = 'https://chat.whatsapp.com/CdilCw6hRUD5gderMrJkLo' //UPDATE GATABOT
 global.nna2 = 'CdilCw6hRUD5gderMrJkLo'
 
-global.nn = 'https://chat.whatsapp.com/GcTHc55VlVd6OCe1Mkd6gx' //Grupo 1
+//global.nn = '' //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/HyItmP6sG381jeXguyQtiE' //Grupo 2
+//global.nnn = 'https://chat.whatsapp.com/HyItmP6sG381jeXguyQtiE' //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/FZaeX6TksxX3XP8xzRUsuV' //Grupo 3
+//global.nnnt = 'https://chat.whatsapp.com/FZaeX6TksxX3XP8xzRUsuV' //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/JAanyXkLzKbDr8dLOtELru' //Grupo 4
+//global.nnntt = 'https://chat.whatsapp.com/JAanyXkLzKbDr8dLOtELru' //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/GOzIJevM3MLEahcGeYOYim' //Grupo 5
+//global.nnnttt = 'https://chat.whatsapp.com/GOzIJevM3MLEahcGeYOYim' //Grupo 5
 
-global.nnnttt2 = 'https://chat.whatsapp.com/IdqAxQYlmQY61S9cVl0N2C' //Grupo 6 COL
+//global.nnnttt2 = 'https://chat.whatsapp.com/IdqAxQYlmQY61S9cVl0N2C' //Grupo 6 COL
 
-global.nnnttt3 = 'https://chat.whatsapp.com/KH6Gefp6iRgEJBwKUlciTv' //Grupo 7 COL
+//global.nnnttt3 = 'https://chat.whatsapp.com/KH6Gefp6iRgEJBwKUlciTv' //Grupo 7 COL
 
-global.paypal = 'https://paypal.me/OficialGD'
+//global.paypal = 'https://paypal.me/no kne'
 
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/916202316574' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -173,13 +172,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧 ♡ : Deepak'
+global.igfg = '𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧 ♡-MD'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '916202316574'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
